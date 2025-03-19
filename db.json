@@ -1,0 +1,150 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "text": "Buy milk",
+      "completed": false,
+      "category": "Shopping",
+      "description": "Pick up 2% milk from the store"
+    },
+    {
+      "id": "2",
+      "text": "Walk the dog",
+      "completed": true,
+      "category": "Personal",
+      "description": "Take dog for a 15 minute walk"
+    },
+    {
+      "id": "3",
+      "text": "Go to gym",
+      "completed": false,
+      "category": "Health",
+      "description": "Work out at the gym for an hour"
+    },
+    {
+      "id": "4",
+      "text": "Watch movie",
+      "completed": true,
+      "category": "Personal",
+      "description": "Watch a new movie"
+    },
+    {
+      "id": "5",
+      "text": "Read a book",
+      "completed": false,
+      "category": "Learning",
+      "description": "Read 50 pages of a book"
+    },
+    {
+      "id": "6",
+      "text": "Clean room",
+      "completed": true,
+      "category": "Personal",
+      "description": "Clean room for an hour"
+    },
+    {
+      "id": "7",
+      "text": "Finish project",
+      "completed": false,
+      "category": "Work",
+      "description": "Finish a project at work"
+    },
+    {
+      "id": "8",
+      "text": "Update documentation",
+      "completed": false,
+      "category": "Work",
+      "description": "Update documentation for a project"
+    },
+    {
+      "id": "9",
+      "text": "Fix bug in login component",
+      "completed": true,
+      "category": "Work",
+      "description": "Fix a bug in the login component"
+    },
+    {
+      "id": "10",
+      "text": "Attend team standup",
+      "completed": false,
+      "category": "Work",
+      "description": "Attend a team standup meeting"
+    },
+    {
+      "id": "18",
+      "text": "Call mom",
+      "completed": true,
+      "category": "Personal",
+      "description": "Call mom to catch up."
+    },
+    {
+      "id": "19",
+      "text": "Schedule dentist appointment",
+      "completed": false,
+      "category": "Personal",
+      "description": "Schedule a dentist appointment"
+    },
+    {
+      "id": "39",
+      "text": "30 minute workout",
+      "completed": false,
+      "category": "Health",
+      "description": "Work out for 30 minutes"
+    },
+    {
+      "id": "40",
+      "text": "Drink 8 glasses of water",
+      "completed": true,
+      "category": "Health",
+      "description": "Drink 8 glasses of water"
+    },
+    {
+      "id": "47",
+      "text": "Complete online course module",
+      "completed": false,
+      "category": "Learning",
+      "description": "Complete an online course module"
+    },
+    {
+      "id": "48",
+      "text": "Read chapter of technical book",
+      "completed": true,
+      "category": "Learning",
+      "description": "Read a chapter of a technical book"
+    },
+    {
+      "id": "49",
+      "text": "Lorem",
+      "completed": false,
+      "category": "Personal",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dignissimos, harum? In, repellendus provident. Quia voluptatibus, fuga placeat illo quasi dolorum quos hic nemo nihil officia odit dolor. Temporibus, similique alias culpa quo omnis labore quae repellendus, molestiae fuga ex earum, aliquam voluptate molestias voluptatibus illo deserunt delectus nobis nulla quaerat!"
+    }
+  ],
+  "categories": [
+    {
+      "name": "Work",
+      "color": "#f59e0b",
+      "id": "9021"
+    },
+    {
+      "name": "Personal",
+      "color": "#ef4444",
+      "id": "5b93"
+    },
+    {
+      "name": "Shopping",
+      "color": "#3b82f6",
+      "id": "1a24"
+    },
+    {
+      "name": "Health",
+      "color": "#10b981",
+      "id": "7fab"
+    },
+    {
+      "name": "Learning",
+      "color": "#8b5cf6",
+      "id": "f327"
+    }
+  ]
+}
